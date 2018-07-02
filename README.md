@@ -1,5 +1,6 @@
 # LicensePlateRecognition
-车牌识别系统python+opencv+百度ai
+### 简介
+#####车牌识别系统python+opencv+百度ai
 
 ### 运行环境配置如下：
 #### python3.6.1
