@@ -10,6 +10,7 @@
 #### requests (2.19.1)
 
 ### version2运行结果
-![选择图片](https://github.com/chsobin/LicensePlateRecognition/tree/master/README/imgs/1.png)
-![车牌定位与车牌识别](https://github.com/chsobin/LicensePlateRecognition/tree/master/README/imgs/2.png)
+![选择图片](https://github.com/chsobin/LicensePlateRecognition/blob/master/README/imgs/1.png)
+
+![车牌定位与车牌识别](https://github.com/chsobin/LicensePlateRecognition/blob/master/README/imgs/2.png)
 
